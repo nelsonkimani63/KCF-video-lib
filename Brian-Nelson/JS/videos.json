@@ -1,0 +1,350 @@
+[{
+        "name": "Awake",
+        "genre": "Thriller",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "price": "$11.99",
+        "format": "Blue-Ray",
+        "imgSrc": "../movies/Thriller/awake.jpg"
+    },
+    {
+        "name": "Beast of Burden",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Thriller",
+        "price": "$11.99",
+        "imgSrc": "../movies/Thriller/beast.jpg"
+
+    },
+    {
+        "name": "Clean",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Thriller",
+        "price": "$11.99",
+        "format": "Blue-Ray",
+        "imgSrc": "../movies/Thriller/clean.jpg"
+
+    },
+    {
+        "name": "Exposed",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Thriller",
+        "price": "$11.99",
+        "format": "DVD",
+        "imgSrc": "../movies/Thriller/beast.jpg"
+
+    },
+    {
+        "name": "Gamer",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Thriller",
+        "price": "$11.99",
+        "format": "CD",
+        "imgSrc": "../movies/Thriller/gamer.jpg"
+
+    },
+    {
+        "name": "Help",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Thriller",
+        "price": "$11.99",
+        "format": "DVD",
+        "imgSrc": "../movies/Thriller/help.jpg"
+
+    },
+    {
+        "name": "The Invisible",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Thriller",
+        "price": "$11.99",
+        "format": "DVD",
+        "imgSrc": "../movies/Thriller/invisible.jpg"
+
+    },
+    {
+        "name": "Looper",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Thriller",
+        "price": "$11.99",
+        "format": "DVD",
+        "imgSrc": "../movies/Thriller/looper.jpg"
+
+    },
+    {
+        "name": "Teacher",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Thriller",
+        "price": "$11.99",
+        "format": "DVD",
+        "imgSrc": "../movies/Thriller/teacher.jpg"
+
+    },
+    {
+        "name": "Unseen",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Thriller",
+        "price": "$11.99",
+        "format": "DVD",
+        "imgSrc": "../movies/Thriller/unseen.jpg"
+
+    },
+    {
+        "name": "Vultures",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Thriller",
+        "price": "$11.99",
+        "format": "DVD",
+        "imgSrc": "../movies/Thriller/vultures.jpg"
+
+    },
+    {
+        "name": "Baby Driver",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Action",
+        "price": "$11.99",
+        "format": "DVD",
+        "imgSrc": "../movies/Action/baby-driver.jpeg"
+
+    },
+    {
+        "name": "Black Panther",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Action",
+        "price": "$11.99",
+        "format": "DVD",
+        "imgSrc": "../movies/Action/black-panther.jpg"
+
+    },
+    {
+        "name": "Expendables 2",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Action",
+        "price": "$11.99",
+        "format": "DVD",
+        "imgSrc": "../movies/Action/expendables-2.jpg"
+
+    },
+    {
+        "name": "Gateway",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Action",
+        "price": "$11.99",
+        "format": "DVD",
+        "imgSrc": "../movies/Action/gateway.jpg"
+
+    },
+    {
+        "name": "Grimsby",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Action",
+        "price": "$11.99",
+        "format": "DVD",
+        "imgSrc": "../movies/Action/grimsby.jpg"
+
+    },
+    {
+        "name": "Iron Man",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Action",
+        "price": "$11.99",
+        "format": "BluRay",
+        "imgSrc": "../movies/Action/iron-man.jpg"
+
+    },
+    {
+        "name": "Justice League",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Action",
+        "price": "$11.99",
+        "format": "DVD",
+        "imgSrc": "../movies/Action/justice-league.jpg"
+
+    },
+    {
+        "name": "Pandemic",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Action",
+        "price": "$11.99",
+        "format": "DVD",
+        "imgSrc": "../movies/Action/pandemic.jpg"
+
+    },
+    {
+        "name": "Siezed",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Action",
+        "price": "$11.99",
+        "format": "DVD",
+        "imgSrc": "../movies/Action/Seized.jpg"
+
+    },
+    {
+        "name": "Snow",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Action",
+        "price": "$11.99",
+        "format": "DVD",
+        "imgSrc": "../movies/Action/snow.jpg"
+
+    },
+    {
+        "name": "Terminator",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Action",
+        "price": "$11.99",
+        "format": "DVD",
+        "imgSrc": "../movies/Action/terminator.jpg"
+
+    },
+    {
+        "name": "Thor",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Action",
+        "price": "$11.99",
+        "format": "DVD",
+        "imgSrc": "../movies/Action/thor.jpg"
+
+    },
+    {
+        "name": "Avengers",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Box Office",
+        "price": "$11.99",
+        "format": "BluRay",
+        "imgSrc": "../movies/Box-office/Avengers.png"
+
+    },
+    {
+        "name": "Black Widow",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Box Office",
+        "price": "$11.99",
+        "format": "BluRay",
+        "imgSrc": "../movies/Box-office/black-widow.png"
+
+    },
+    {
+        "name": "Brave",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Box Office",
+        "price": "$11.99",
+        "format": "BluRay",
+        "imgSrc": "../movies/Box-office/brave.png"
+
+    },
+    {
+        "name": "Dilwale",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Box Office",
+        "price": "$11.99",
+        "format": "BluRay",
+        "imgSrc": "../movies/Box-office/Dilwale.jpg"
+
+    },
+    {
+        "name": "Dilwale",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Box Office",
+        "price": "$11.99",
+        "format": "Ultra-HD",
+        "imgSrc": "../movies/Box-office/Dilwale.png"
+
+    },
+    {
+        "name": "Goonies",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Box Office",
+        "price": "$11.99",
+        "format": "BluRay",
+        "imgSrc": "../movies/Box-office/Goonies.png"
+
+    },
+    {
+        "name": "The Grey",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Box Office",
+        "price": "$11.99",
+        "format": "BluRay",
+        "imgSrc": "../movies/Box-office/grey.jpg"
+
+    },
+    {
+        "name": "Jurassic Park",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Box Office",
+        "price": "$11.99",
+        "format": "Ultra-HD",
+        "imgSrc": "../movies/Box-office/Jurassic_park.png"
+
+    },
+    {
+        "name": "Queen of Katwe",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Box Office",
+        "price": "$11.99",
+        "format": "Ultra-HD",
+        "imgSrc": "../movies/Box-office/katwe.png"
+
+    },
+    {
+        "name": "Olympus Has Fallen",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Box Office",
+        "price": "$11.99",
+        "format": "BluRay",
+        "imgSrc": "../movies/Box-office/Olympus.png"
+
+    },
+    {
+        "name": "Loving Pablo",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Box Office",
+        "price": "$11.99",
+        "format": "BluRay",
+        "imgSrc": "../movies/Box-office/pablo.png"
+
+    },
+    {
+        "name": "'94 Terror",
+        "video-short-desc": "Lorem ipsum",
+        "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt odio quaerat sequi eveniet eos ipsa cum iste quasi, fugiat placeat harum recusandae, nostrum quas voluptas, laudantium delectus beatae nam!",
+        "genre": "Box Office",
+        "price": "$11.99",
+        "format": "CD",
+        "imgSrc": "../movies/Box-office/red-carpet.png"
+
+    }
+
+]

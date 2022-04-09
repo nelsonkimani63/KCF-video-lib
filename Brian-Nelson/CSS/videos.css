@@ -9,7 +9,7 @@
     width: 500px;
     height: 500px;
     position: relative;
-    background-image: url(../movies/Dilwale.jpg);
+    background-image: url(../movies/Box-office/Dilwale.jpg);
     background-size: cover;
 }
 
@@ -78,7 +78,8 @@
     color: #fff;
 }
 
-.cart-btn {
+
+/* .cart-btn {
     width: 20%;
     padding: 5px;
     border-radius: 5px;
@@ -90,7 +91,7 @@
     margin-right: 5%;
     background: #383838;
     color: #fff;
-}
+} */
 
 .btn:hover {
     color: blue;

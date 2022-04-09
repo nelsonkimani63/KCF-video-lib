@@ -9,8 +9,14 @@ const createdNav = () => {
                     <input type="text" class="search-box" placeholder="Search movies, TV shows, Documentaries">
                     <button class="search-btn">search</button>
                 </div>
-                <a href="#"><i class="fas fa-user"></i></a>
-                <a href="#"><i class="fas fa-shopping-cart"></i></a>
+              <div>
+
+
+              
+              <a href="#"><i class="fas fa-shopping-cart"></i></a>
+              </div>
+        
+               
             </div>
         </div>
         <ul class="link-container">
@@ -19,13 +25,13 @@ const createdNav = () => {
                 <a href="#" class="link">Home</a>
             </li>
             <li class="link-item">
-                <a href="#" class="link">Movies</a>
+                <a href="#" class="link">Box Office</a>
             </li>
             <li class="link-item">
-                <a href="#" class="link">TV Shows</a>
+                <a href="#" class="link">Thrillers</a>
             </li>
             <li class="link-item">
-                <a href="#" class="link">Documentaries</a>
+                <a href="#" class="link">Action</a>
             </li>
         </ul>
     `;

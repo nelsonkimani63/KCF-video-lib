@@ -16,34 +16,6 @@ footer {
     height: 160px;
 }
 
-.footer-ul-container {
-    width: 62.5%;
-    display: flex;
-    justify-content: space-between;
-}
-
-.category {
-    width: 200px;
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-gap: 10px;
-    list-style: none;
-}
-
-.category-title {
-    grid-column: span 2;
-    text-transform: capitalize;
-    color: #0c9ee2;
-    font-size: 20px;
-    margin-bottom: 20px;
-}
-
-.category .footer-link {
-    text-decoration: none;
-    text-transform: capitalize;
-    color: #fff;
-}
-
 .footer-link:hover {
     color: crimson;
 }
